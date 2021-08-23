@@ -1,4 +1,4 @@
-# woocommcer-payumoney-redirect-checkout-plugin
+# Woocommcer-payumoney-redirect-checkout-plugin
 
 We built this plugin for PayUMoney redirect checkout api, 
 this plugin requires woocommerce and with the help of this plugin customer can pay using 
