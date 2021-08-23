@@ -1,10 +1,10 @@
 # woocommcer-payumoney-redirect-checkout
 
-We built this plugin for payu money redirect checkout api, 
+We built this plugin for PayUMoney redirect checkout api, 
 this plugin requires woocommerce and with the help of this plugin customer can pay using 
 Credit cards/ Debit cards / Netg banking / UPI / Wallet. 
 
-All the payments are happening on pay hosted checkout page.
+All the payments are happening on PayU hosted checkout page.
 
 #How to install
 
