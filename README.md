@@ -1,1 +1,0 @@
-# woocommcer-payumoney-redirect-checkout
